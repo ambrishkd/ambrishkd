@@ -1,12 +1,15 @@
-<!--
-Here are some ideas to get you started:
+# Hi, I'm Ambrish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer building backend services and full-stack web applications.
+
+I enjoy designing APIs, automating repetitive workflows, and building software that solves practical problems.
+
+### Currently Exploring
+
+- Next.js
+- AI applications and Agentic workflows
+- Backend Architecture and System Design
+
+### Outside Work
+
+I enjoy understanding how software works under the hood, from JavaScript internals and React's architecture to distributed systems and AI tooling.
