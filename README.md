@@ -1,13 +1,13 @@
 # Hi, I'm Ambrish.
 
-Software Engineer building backend services and full-stack web applications.
+Software Engineer building backend services, full-stack web applications and deploying Generative & Agentic AI solutions.
 
 I enjoy designing APIs, automating repetitive workflows, and building software that solves practical problems.
 
 ### Currently Exploring
 
 - Next.js
-- AI applications and Agentic workflows
+- Gen AI and Agentic workflows
 - Backend Architecture and System Design
 
 ### Outside Work
