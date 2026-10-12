@@ -1,4 +1,4 @@
-# Hi, I'm Ambrish.
+### Hi, I'm Ambrish.
 
 Software Engineer building backend services, full-stack web applications and deploying Generative & Agentic AI solutions.
 
